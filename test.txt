@@ -1,0 +1,11 @@
+ha, this is my test file for deleting in git.:wq
+
+
+
+
+
+
+
+
+
+
